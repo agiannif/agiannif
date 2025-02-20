@@ -17,10 +17,11 @@ For inquiries, feel free to reach out to me on <a href="https://www.linkedin.com
 Project:
   - 💻 Day Job:  Network security application development at Broadcom
     ⚙️ Tech:     Python, Java, Go, K8s, Spark, Kafka, DBs, Streaming, etc.
-  - 📷 Personal: <a href="https://adistant.cloud">adistant.cloud</a>, my photo gallery and blog
+  - 📷 Personal: <a href="https://adistant.cloud">adistant.cloud</a>, my personal photo gallery
     ⚒️ Tech:     Go, Templ, HTMX, Alpine.js, Tailwindcss, etc.
 Plan:
   - 📚 Reading plenty of science fiction and magical realism
+  - 📝 Working on adding blogging support to my personal website
   - 🚲 Training for the <a href="https://cascade.org/rides-events/seattle-portland-2025">STP</a>
   - 🛩️ Dreaming about an <a href="https://en.wikipedia.org/wiki/Class_rating">ASES Rating</a>
 </pre>
