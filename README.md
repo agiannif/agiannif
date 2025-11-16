@@ -22,6 +22,6 @@ Project:
 Plan:
   - 📚 Reading plenty of science fiction and magical realism
   - 📝 Working on adding blogging support to my personal website
-  - 🚲 Training for the <a href="https://cascade.org/rides-events/seattle-portland-2025">STP</a>
+  - 🌨️ Building a weather display inspired by <a href="https://github.com/lmarzen/esp32-weather-epd">esp32-weather-epd</a>
   - 🛩️ Dreaming about an <a href="https://en.wikipedia.org/wiki/Class_rating">ASES Rating</a>
 </pre>
